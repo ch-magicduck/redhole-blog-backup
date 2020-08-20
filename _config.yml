@@ -145,5 +145,5 @@ theme: fluid
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git clone git@120.79.5.151:/srv/gitrepo/blog.git
+  repo: git@120.79.5.151:/srv/gitrepo/blog.git
   branch: master
